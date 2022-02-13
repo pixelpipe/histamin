@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pixelpipe/histamin.git/main?labpath=histamin.ipynb)
 
-Jupyter notebook that can be used for individual that are histamine intolerant. Provided information is based on data from: https://www.histaminintoleranz.ch/en/downloads.html#foodlist
+Provided information is based on data from: https://www.histaminintoleranz.ch/en/downloads.html#foodlist
 
 Current Languages:
  - English
