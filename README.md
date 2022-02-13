@@ -1,6 +1,6 @@
 # histamin
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pixelpipe/histamin.git/main?labpath=histamin.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pixelpipe/histamin.git/main?labpath=histamin.ipynb) [![Voila](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/pixelpipe-histamin-9t6tymva/voila/render/histamin.ipynb)
 
 Jupyter notebook that gives access to compatibility of basic foodstuffs and additives in histaminosis or mast cell activation disease respectively (with distinction whether they are histamine containing or liberators).
 
