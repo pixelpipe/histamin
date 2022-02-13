@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pixelpipe/histamin.git/main?labpath=histamin.ipynb)
 
-Compatibility of basic foodstuffs and additives in histaminosis or mast cell activation disease respectively (with distinction whether they are histamine containing or liberators). Some versions also contain information on lactose intolerance and celiac disease / gluten intolerance. More than 800 entries, more than 500 ingredients.
+Compatibility of basic foodstuffs and additives in histaminosis or mast cell activation disease respectively (with distinction whether they are histamine containing or liberators).
 
 Based on data from: https://www.histaminintoleranz.ch/en/downloads.html#foodlist
 
